@@ -1,24 +1,25 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## About The Project
 
-* Ruby version
+This project is dedicated to celebrate the ideas and impact of feminists and women activists. It seeks to highlight their contributions and give users the ability to discuss those contributions in chat rooms or through blog posts.
 
-* System dependencies
 
-* Configuration
+### Technologies Used
 
-* Database creation
+- Rails
+- JWT Authentication
+- Action Cable
+- React
+- Redux
+- React-Share
+- CKEditor
+- SASS
+- HTML / CSS
 
-* Database initialization
+### Demo 
 
-* How to run the test suite
+Video demo: https://www.youtube.com/watch?v=uDIW66bjsxk&feature=youtu.be
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
+![TWSS](https://media.giphy.com/media/8hXXht4WOJJmd2phuw/giphy.gif)
